@@ -1,6 +1,7 @@
 export class Player {
-  constructor() {
-   
+  constructor(name,level) {
+    this.name = name;
+    this.level = level;
   }
-    
   }
+
